@@ -1,0 +1,40 @@
+{
+  "AppsPromote": [
+    {
+      "name": "Sort The Court",
+      "packageName": "com.royalarcadegames.sortthecourt",
+      "icon": "https://lh3.googleusercontent.com/wF12mf9A7bx6qt2Qv_s9jp-lGaq39gJIArf8N53YQw9LEaCOIu0wpIcMA1McKLAaHKus=s180",
+      "preview": "https://lh3.googleusercontent.com/7TXHVr_D4G_0a7XJxHNOQw5TMhW3b4HGSgb0n7S6P5kAFvNNKQzXKXHu1rXvv6ljXw=w720-h310",
+      "shortDescription": "Rule your kingdom and make wise decisions in Sort the Court!",
+      "screenShot": [
+        "https://lh3.googleusercontent.com/KgOTgpBT3QhCE4tzwR0AqAXf3GFAlpb6USGWyWFo4mGIoEREcImbZ4cZl0vov0Jb6g=w720-h310",
+        "https://lh3.googleusercontent.com/Knt3Y48FyX6MMNgBmm8VhvlKVBETj1dEqcnm9gNvSdNIsYjuU2drHxobcuZm233E3MY=w720-h310",
+        "https://lh3.googleusercontent.com/pfFISkVbxgX7OuvdnvDThbFIagG98zjCn9M79a76r6P51XIuD9-W27BoXE4mptei_PlQ=w720-h310"
+      ]
+    },
+    {
+      "name": "StickMan Defenders",
+      "packageName": "com.huggy.adventure.puzzle",
+      "icon": "https://lh3.googleusercontent.com/IUAJxY3F1t1cAQcoz_JdOAELEFI7fvtMda7I77oySepNVF-wHN3iV_3LrP8UcGIP3Zk=s180",
+      "preview": "https://lh3.googleusercontent.com/ERvbY5r4fx2OcVuWARMFnInpLBls-3-Dm9e0lt6afqhTmntpM8lir4BEjDtfysgwzLL8=w720-h310",
+      "shortDescription": "Merge stickmen & defend your base in an epic Stick War legacy strategy game!",
+      "screenShot": [
+        "https://lh3.googleusercontent.com/y0ZwdwESRESUIMOwMQkYmtgq1cfKL9BsDcTQV43hVMerURkqLNuD_PFCpR1oAel9GlI=w720-h310",
+        "https://lh3.googleusercontent.com/B65cPaS6pWheTThRt8xOk4zjdzjbTKHptvoQdC09pAlKG06LvhegpreZSGGtjaBeA_g=w720-h310",
+        "https://lh3.googleusercontent.com/_3xfIXG_Y4tor5tycdUYVPGvwTUP-29zxn7s_xJ6cC6e8JwvepVVDJm7KCQLyiO4wGQ=w720-h310"
+      ]
+    },
+    {
+      "name": "Stickman Archers",
+      "packageName": "com.stickwar.archerybattle",
+      "icon": "https://lh3.googleusercontent.com/wmb8xY44dIYDOAnUORHFJRkc_bpC7KgjnR1tjmMWNwKPsZdBGtc1WoWMmg-_aTJgiUw=s180",
+      "preview": "https://lh3.googleusercontent.com/ZJ6ZlqLZ4NGPMcH6ApKIlwWZBW8DCNWTwIY1xEldMkNVAtH1ha6AwDzYzN82CHdoEEc=w720-h310",
+      "shortDescription": "Battle waves as a stickman archer!",
+      "screenShot": [
+        "https://lh3.googleusercontent.com/GA0uBE1pl1MzM4Gzl3wmqgPA2Qo0i9Ma-GTTwvXm6iZe66eQHleJ6b0rRJmmpbwn9GfC=w720-h310",
+        "https://lh3.googleusercontent.com/U_ru8FnJpcISEO1QK0wbzzx97dKL9Xq9-8Gpt5SOphXCK_z8kI6L80sdFbImlYHJ6mI=w720-h310",
+        "https://lh3.googleusercontent.com/ccpXXZ4LmtOfl9qWYIkKEcAPV57OeROAzBjKnz6vT9cX4UqxAZbZDZPnQ0e6sHTEOg=w720-h310"
+      ]
+    }
+  ]
+}
