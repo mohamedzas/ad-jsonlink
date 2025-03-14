@@ -13,27 +13,27 @@
       ]
     },
     {
-      "name": "StickMan Defenders",
-      "packageName": "com.huggy.adventure.puzzle",
-      "icon": "https://lh3.googleusercontent.com/IUAJxY3F1t1cAQcoz_JdOAELEFI7fvtMda7I77oySepNVF-wHN3iV_3LrP8UcGIP3Zk=s180",
-      "preview": "https://lh3.googleusercontent.com/ERvbY5r4fx2OcVuWARMFnInpLBls-3-Dm9e0lt6afqhTmntpM8lir4BEjDtfysgwzLL8=w720-h310",
-      "shortDescription": "Merge stickmen & defend your base in an epic Stick War legacy strategy game!",
+      "name": "Merge Racers",
+      "packageName": "com.merge_car.merge_racers",
+      "icon": "https://lh3.googleusercontent.com/VYLIpcBmq2gwFtq-8EB1qICPDVDOCBoC4P5tADJPqmSfJJLb7aSpwPhFV_G4jfnMmUdZ=h180",
+      "preview": "https://lh3.googleusercontent.com/86xE5n9MGteHqBbFSAq6wFtDRLKIvfXF_k6y0nC3KXJ5buusbBgu3z3Qzw-5Xaq_uks=w720-h310",
+      "shortDescription": "Merge cars for better ones and race to earn coins in Merge Round Racers!",
       "screenShot": [
-        "https://lh3.googleusercontent.com/y0ZwdwESRESUIMOwMQkYmtgq1cfKL9BsDcTQV43hVMerURkqLNuD_PFCpR1oAel9GlI=w720-h310",
-        "https://lh3.googleusercontent.com/B65cPaS6pWheTThRt8xOk4zjdzjbTKHptvoQdC09pAlKG06LvhegpreZSGGtjaBeA_g=w720-h310",
-        "https://lh3.googleusercontent.com/_3xfIXG_Y4tor5tycdUYVPGvwTUP-29zxn7s_xJ6cC6e8JwvepVVDJm7KCQLyiO4wGQ=w720-h310"
+        "https://lh3.googleusercontent.com/PlH7j4fkXoS1Mk4wK4kH4rra_75pbV5Bw8nHIvoeyos39LDM--CJBZIK_-RhmHtSFkGS=h720",
+        "https://lh3.googleusercontent.com/wfLFmEeao6d2yDlqBmi8uZngFpqrIMSCHa1N9uTRzEDhb84kHjFFDgSTxKS-MNVR4qYI=h720",
+        "https://lh3.googleusercontent.com/auGVjdI2CnHjIL0qPajQthiR4Pzc-Q7-XINlXB58drF38ZyICcHTMaJu6ZzoMQUDMu4=h720"
       ]
     },
     {
-      "name": "Stickman Archers",
-      "packageName": "com.stickwar.archerybattle",
-      "icon": "https://lh3.googleusercontent.com/wmb8xY44dIYDOAnUORHFJRkc_bpC7KgjnR1tjmMWNwKPsZdBGtc1WoWMmg-_aTJgiUw=s180",
-      "preview": "https://lh3.googleusercontent.com/ZJ6ZlqLZ4NGPMcH6ApKIlwWZBW8DCNWTwIY1xEldMkNVAtH1ha6AwDzYzN82CHdoEEc=w720-h310",
-      "shortDescription": "Battle waves as a stickman archer!",
+      "name": "Monster Trucks: Jam 4x4",
+      "packageName": "com.monstertrucks.games",
+      "icon": "https://lh3.googleusercontent.com/AreWzg2onK4ycNZ3ucucZ4wxwk6uPKI-Mvc0L0w0XbMPXPDPxlz81m1LaopKo-aPpDY=h180",
+      "preview": "https://lh3.googleusercontent.com/2yqmXlSOUWfmEjaKRNvSC3tflGLkP4hx8Dc8ZKitUHKhqrl75D_E6DpUC6zuuHmSRsE=w720-h310",
+      "shortDescription": "drive a monster truck off-road! Perform stunts and finish the outlaw race track",
       "screenShot": [
-        "https://lh3.googleusercontent.com/GA0uBE1pl1MzM4Gzl3wmqgPA2Qo0i9Ma-GTTwvXm6iZe66eQHleJ6b0rRJmmpbwn9GfC=w720-h310",
-        "https://lh3.googleusercontent.com/U_ru8FnJpcISEO1QK0wbzzx97dKL9Xq9-8Gpt5SOphXCK_z8kI6L80sdFbImlYHJ6mI=w720-h310",
-        "https://lh3.googleusercontent.com/ccpXXZ4LmtOfl9qWYIkKEcAPV57OeROAzBjKnz6vT9cX4UqxAZbZDZPnQ0e6sHTEOg=w720-h310"
+        "https://lh3.googleusercontent.com/cEy8d47AXsJfBHiUm8LEA9A9N2Kt1l8HJkvQ0PnfmXMmBbU2i8xERVRk-gMMGMOIUgC_=w720-h310",
+        "https://lh3.googleusercontent.com/8J_oia8HAGdQIuzjOMYJoFHS35JAvI2gjHeVCndyO5AhKd0o86-nSDCgiE1Ql1cCAg=h310",
+        "https://lh3.googleusercontent.com/XlOwSOv6IbtGS52yBU_LVz_U0mPyZZFIgYolpWmCbQWdC1C2FwjITX5akTvu-rBgPA=h310"
       ]
     }
   ]
